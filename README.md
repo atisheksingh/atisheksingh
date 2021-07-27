@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @atisheksingh
+- 👋 Hi, I’m Atishek Singh
 - 👀 I’m interested in PYTHON, DAS, MACHINE LEARNING , AWS
 - 🌱 I’m currently learning REACT.JS, TENSORFLOW
 - 💞️ I’m looking to collaborate on OPEN SORUCE 
