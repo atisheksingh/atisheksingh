@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SOLIDITY, TENSORFLOW.
 - 💞️ I’m looking FOR full time job in Ethereum Framework.
 - 📫 How to reach me www.linkedin.com/in/atishek1
-- 📧 Mail me atishek1@gmail.com, atishek@rapidinnovation.dev
+- 📧 Mail me atishek1@gmail.com , atisheksingh@rentstation.in
 - :page_facing_up:   Download resume here :https://drive.google.com/file/d/1XCGKuoL6PQZf3dr_c6BEkkQQiOcMIMci/view?usp=sharing
 
 <!---
