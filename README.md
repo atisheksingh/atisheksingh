@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Atishek Singh
 - 👀 I’m interested in  BLOCKCHAIN 
-- 🌱 I’m currently learning SOLIDITY, WEB3 , Moralies.
+- 🌱 I’m currently learning SOLIDITY, WEB3 , Moralis.
 - 💞️ I’m looking FOR full time job in Ethereum Framework.
 - 📫 How to reach me www.linkedin.com/in/atishek1
 - 📧 Mail me atishek1@gmail.com , atisheksingh@rentstation.in
