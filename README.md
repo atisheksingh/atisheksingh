@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SOLIDITY, WEB3 , Moralis.
 - 💞️ I’m looking FOR full time job in Ethereum Framework.
 - 📫 How to reach me www.linkedin.com/in/atishek1
-- 📧 Mail me atishek1@gmail.com , atisheksingh@rentstation.in
+- 📧 Mail me atishek1@gmail.com 
 - :page_facing_up:   Download resume here :https://drive.google.com/file/d/1nXE-jL5f7ub5AL4LsJEvJeK_lcx0457G/view?usp=sharing
 
 <!---
