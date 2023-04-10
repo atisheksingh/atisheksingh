@@ -5,7 +5,7 @@
 - 💞️ I’m working for Mobiloitte Technologies.
 - 📫 How to reach me [www.linkedin.com/in/atishek1](url)
 - 📧 Mail me at [atishek1@gmail.com ](url)
-- :page_facing_up:   Download resume here :[https://drive.google.com/file/d/12iPESKPDOz3DIDqWDWj6nMJhT8gOd59e/view?usp=sharing](url)
+- :page_facing_up:   Download resume here : https://drive.google.com/file/d/12iPESKPDOz3DIDqWDWj6nMJhT8gOd59e/view?usp=sharing
 
 <!---
 atisheksingh/atisheksingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
