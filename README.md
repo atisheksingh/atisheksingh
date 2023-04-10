@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Atishek Singh(Solidity_Monk)
 - 👀 I’m interested in BLOCKCHAIN Domain. 
 - 🌱 I’m proficient in SOLIDITY and WEB3. 
-- 💪 Strong knowledge of DeFi protocols. 
-- 💞️ I’m working for Mobiloitte Technologies.
-- 📫 How to reach me [www.linkedin.com/in/atishek1](url)
-- 📧 Mail me at [atishek1@gmail.com ](url)
+- 💪 Strong knowledge of DeFi Protocols and internal components of Blockchain. 
+- 👨‍💻 I’m working as Team lead of blockchain for Mobiloitte Technologies.
+- 📫 How to reach me www.linkedin.com/in/atishek1
+- 📧 Mail me at atishek1@gmail.com (url)
 - :page_facing_up:   Download resume here : https://drive.google.com/file/d/12iPESKPDOz3DIDqWDWj6nMJhT8gOd59e/view?usp=sharing
 
 <!---
