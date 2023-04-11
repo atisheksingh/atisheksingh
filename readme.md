@@ -12,12 +12,16 @@
 - 💪 Strong knowledge of DeFi Protocols and internal components of Blockchain. 
 - 👨‍💻 I’m working as Team lead of Blockchain Dept for Mobiloitte Technologies.
 - 💡 interested in architectur layer of DApp.
-- 📫 How to reach me www.linkedin.com/in/atishek1
-- 📧 Mail me at [atishek1@gmail.com ](url)
-- :page_facing_up:   Download resume here : https://drive.google.com/file/d/12iPESKPDOz3DIDqWDWj6nMJhT8gOd59e/view?usp=sharing
 
 
 <h3 align="left">Connect with me:</h3>
+
+- 📫 How to reach me www.linkedin.com/in/atishek1
+
+- 📧 Mail me at [atishek1@gmail.com ](url)
+
+- :page_facing_up:   Download resume here : https://drive.google.com/file/d/12iPESKPDOz3DIDqWDWj6nMJhT8gOd59e/view?usp=sharing
+
 <p align="left">
 </p>
 
