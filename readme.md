@@ -4,13 +4,14 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atisheks1&label=Profile%20views&color=0e75b6&style=flat" alt="atisheks1" /> </p>
-- 📫 How to reach me *raunak.dhabekar1998@gmail.com*
+
 - 👋 Hi, I’m Atishek Singh(Solidity_Monk)
 - 👀 I’m interested in BLOCKCHAIN Domain. 
 - 🌱 I’m proficient in SOLIDITY and WEB3. 
 - 💬 Ask me about *Solidity , Blockchains*
 - 💪 Strong knowledge of DeFi Protocols and internal components of Blockchain. 
-- 👨‍💻 I’m working as Team lead of blockchain for Mobiloitte Technologies.
+- 👨‍💻 I’m working as Team lead of Blockchain Dept for Mobiloitte Technologies.
+- 💡 interested in architectur layer of DApp.
 - 📫 How to reach me www.linkedin.com/in/atishek1
 - 📧 Mail me at [atishek1@gmail.com ](url)
 - :page_facing_up:   Download resume here : https://drive.google.com/file/d/12iPESKPDOz3DIDqWDWj6nMJhT8gOd59e/view?usp=sharing
