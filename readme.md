@@ -6,8 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atisheks1&label=Profile%20views&color=0e75b6&style=flat" alt="atisheks1" /> </p>
 
 - 👋 Hi, I’m Atishek Singh(Solidity_Monk)
-- 👀 I’m interested in BLOCKCHAIN Domain. 
-- 🌱 I’m proficient in SOLIDITY and WEB3. 
+- 👀 I’m interested in BLOCKCHAIN and web3 Domain. 
+- 🌱 I’m proficient in SOLIDITY, WEB3 and Underlying working of the EVM. 
 - 💬 Ask me about *Solidity , Blockchains*
 - 💪 Strong knowledge of DeFi Protocols and internal components of Blockchain. 
 - 👨‍💻 I’m working as Team lead of Blockchain Dept for Mobiloitte Technologies.
@@ -20,7 +20,7 @@
 
 - 📧 Mail me at [atishek1@gmail.com ](url)
 
-- :page_facing_up:   Download resume here : https://drive.google.com/file/d/12iPESKPDOz3DIDqWDWj6nMJhT8gOd59e/view?usp=sharing
+- :page_facing_up:   Download resume here :https://drive.google.com/file/d/1d7r8ofXUXJPn6yQxIURV6JuDMdq8RUoX/view?usp=sharing
 
 <p align="left">
 </p>
