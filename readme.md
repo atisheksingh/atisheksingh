@@ -20,7 +20,7 @@
 
 - 📧 Mail me at [atishek1@gmail.com ](url)
 
-- :page_facing_up:   Download resume here :[https://drive.google.com/file/d/1LgvGkGY9q_icG7l9zGnKt-cHZ-OyVN6B/view?usp=sharing](https://drive.google.com/file/d/1LgvGkGY9q_icG7l9zGnKt-cHZ-OyVN6B/view?usp=sharing)
+- :page_facing_up:   Download resume here :[G-Drive Link](https://drive.google.com/file/d/1G-ubhM4MKVUfeGri9obuPaGjE5lq8iba/view?usp=sharing)
 
 <p align="left">
 </p>
