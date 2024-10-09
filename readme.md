@@ -11,7 +11,7 @@
 - 💬 Ask me about *Solidity , Blockchains*
 - 💪 Strong knowledge of DeFi Protocols and internal components of Blockchain. 
 - 👨‍💻 I’m working as Team lead of Blockchain Dept for Mobiloitte Technologies.
-- 💡 interested in architectur layer of DApp.
+- 💡 interested in architecture layer of DApp.
 
 
 <h3 align="left">Connect with me:</h3>
