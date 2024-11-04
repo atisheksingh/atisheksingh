@@ -14,6 +14,21 @@
 - 💡 interested in architecture layer of DApp.
 
 
+
+
+Hello, my name is Atishek Singh and I am an experienced and skilled Infrastructure Engineer, Smart Contract Engineer, and Blockchain Ecosystem Lead. With a strong background in Solidity, Engineering Management, Golang, EVM, AWS, Web3.js, Node.js, and Blockchain, I am well-equipped to handle any project related to blockchain technology.
+
+I have a deep understanding of blockchain architecture and protocol engineering, allowing me to design and implement complex and efficient solutions for various use cases. My proficiency in Git and cloud computing enables me to collaborate effectively with cross-functional teams and ensure smooth project delivery.
+
+One of my key areas of expertise is in DeFi, where I have successfully developed and deployed multiple smart contracts for various decentralized finance applications. I am well-versed in zero-knowledge technology and have a thorough understanding of Ethereum and its ecosystem.
+
+As a Blockchain Ecosystem Lead, I have the ability to identify and analyze market trends and opportunities, making me a valuable asset in driving business growth. My experience in IPFS and cryptocurrency further adds to my diverse skill set and allows me to stay updated with the latest developments in the blockchain industry.
+
+I am a dedicated and focused individual, always striving to achieve the best results and exceed expectations. My strong time management skills and ability to prioritize tasks make me an efficient and productive team member. With my sharp rational and logical thinking, I can quickly adapt to new challenges and deliver high-quality solutions.
+
+Overall, I am an Ethereum enthusiast with a passion for exploring new applications in the blockchain space. With my extensive skills and experience, I am excited to continue growing and contributing to the advancement of blockchain technology. Thank you for considering me for your team.
+
+
 <h3 align="left">Connect with me:</h3>
 
 - 📫 How to reach me www.linkedin.com/in/atishek1
