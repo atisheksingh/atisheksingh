@@ -1,7 +1,10 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi 👋, I'm Atishek <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 <h3 align="center">Blockchain Engineer, Smart contract Developer & Consultant</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
+<!-- <img align="left" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif"> -->
 
+
+
+<a href="https://app.daily.dev/atisheksingh"><img src="https://api.daily.dev/devcards/v2/imWglvZkk3etwaQ56abt8.png?r=l24" width="356"  align="right" alt="Atishek singh's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atisheks1&label=Profile%20views&color=0e75b6&style=flat" alt="atisheks1" /> </p>
 
