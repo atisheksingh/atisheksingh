@@ -38,7 +38,7 @@ Overall, I am an Ethereum enthusiast with a passion for exploring new applicatio
 
 - 📧 Mail me at [atishek1@gmail.com ](url)
 
-- :page_facing_up:   Download resume here :[G-Drive Link](https://drive.google.com/file/d/1oDWLlKhLELToWe-MFhlggXj9w-9T4oSZ/view?usp=sharing)
+- :page_facing_up:   Download resume here :[G-Drive Link](https://drive.google.com/file/d/1B_NvW_pqVYzL2cuNTkEPzyBakwemvdds/view?usp=sharing)
 
 <p align="left">
 </p>
